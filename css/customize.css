@@ -24,6 +24,48 @@ img.full-height {
 .center{
 	text-align: center;
 }
+#finalproject {
+  background-color: transparent; /* φόντο διαφανές, όχι χρώμα στο background */
+  padding: 50px 30px;             /* εσωτερικά περιθώρια: 50px πάνω και κάτω, 30px δεξιά και αριστερά */
+  margin-top: 100px;              /* εξωτερικό κενό 100px πάνω από το στοιχείο */
+  text-align: center;            /* Κεντράρισμα του κειμένου οριζόντια μέσα στο div */
+}
+#finalproject h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #333;
+}
+#course_info h2{
+color: rgb(99,112,129);
+font-weight: bold;
+}
+
+#projects h3 {
+color: rgb(124,152,179);
+font-weight: bold;
+}
+
+#projects h5 {
+color: rgb(83,107,120);
+font-weight: bold;
+}
+
+#finalproject h2 {
+color: rgb(166, 28, 60);
+font-weight: bold;
+}
+
+#finalproject a {
+  display: inline-block;
+  margin-top: 2px;
+  font-weight: bold;
+  color: #007acc;
+  text-decoration: none;
+}
+
+#finalproject a:hover {
+  text-decoration: underline;
+}
 
 
 
